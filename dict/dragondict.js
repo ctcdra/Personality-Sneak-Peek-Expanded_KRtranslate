@@ -842,6 +842,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -3434,6 +3449,21 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "signature_s_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
               }
             }
           }
@@ -12240,6 +12270,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -13170,6 +13215,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -13894,6 +13954,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -14396,6 +14471,21 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
               }
             }
           }
@@ -20249,6 +20339,84 @@ const speciesJson = {
   "wind": {
     "speciesDisplay": "윈드 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "해풍 윈드",
+            "genders": {
+              "f": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "육풍 윈드",
+            "genders": {
+              "f": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "해풍 윈드",
+            "genders": {
+              "f": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "육풍 윈드",
+            "genders": {
+              "f": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -20283,6 +20451,37 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "wyvern_w_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "해풍 윈드",
+            "genders": {
+              "f": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "육풍 윈드",
+            "genders": {
+              "f": {
+                "color": "g"
               }
             }
           }
@@ -25839,6 +26038,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -30402,6 +30616,21 @@ const speciesJson = {
               },
               "m": {
                 "undeadres": "muscle_w_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
               }
             }
           }
