@@ -2,7 +2,7 @@
 	<head>
 		<link rel="stylesheet" href="./css/style.css" type="text/css">
 		<link rel="shortcut icon" type="image/png" href="./res/img/favicon.png">
-		<title> Personality Sneak-Peek (Expanded) </title>
+		<title> 성격 미리보기 (확장판) </title>
 		<script src="./js/common.js"></script>
 		<script src="./js/spineObject.js"></script>
 		<script src="./dict/dragondict.js"></script>
@@ -24,7 +24,7 @@
 			var form;
 			//the species name here must be manually set to the first dragon in the list.
 				// or else bad stuff happens.
-			var speciesName = "abaddon";
+			var speciesName = "centipededragon";
 			var formNumber = "01";
 			var animState = "idle";
 			var maleButton;
@@ -51,19 +51,19 @@
 				species = document.getElementById("species");
 				personality = document.getElementById("personality");
 				form = document.getElementById("form");
-				maleButton = document.getElementById("male");
+				maleButton = document.getElementById("수컷");
 				maleLabel = document.getElementById("maleLabel");
-				femaleButton = document.getElementById("female");
+				femaleButton = document.getElementById("암컷");
 				femaleLabel = document.getElementById("femaleLabel");
-				neutralButton = document.getElementById("neutral");
+				neutralButton = document.getElementById("중성");
 				neutralLabel = document.getElementById("neutralLabel");
-				hatchButton = document.getElementById("hatch");
+				hatchButton = document.getElementById("해치");
 				hatchLabel = document.getElementById("hatchLabel");
-				hatchlingButton = document.getElementById("hatchling");
+				hatchlingButton = document.getElementById("해츨링");
 				hatchlingLabel = document.getElementById("hatchlingLabel");
-				adultButton = document.getElementById("adult");
+				adultButton = document.getElementById("성체");
 				adultLabel = document.getElementById("adultLabel");
-				essenceButton = document.getElementById("essence");
+				essenceButton = document.getElementById("특수진화");
 				essenceLabel = document.getElementById("essenceLabel");
 				
 				//create option tags for Species
@@ -155,7 +155,7 @@
 				essenceButton.disabled = true;
 				essenceButton.setAttribute('aria-disabled', true);
 
-				//add disabled class to hatch, hatchling, and essence labels
+				//add disabled class to hatch and hatchling labels
 				hatchLabel.classList.add("disabledButton");
 				hatchLabel.setAttribute('aria-disabled', true);
 				hatchlingLabel.classList.add("disabledButton");
@@ -337,7 +337,7 @@
 	<div class="header">
 		<img src="./res/img/logo.png" width="200px" alt="Dragon Village Collection">
 		<!-- </a> -->
-		<br><b>Personality Sneak-Peek (Expanded)</b>
+		<br><b>성격 미리보기 (확장판)</b>
 	</div><br>
 	
 	<!--super-cool, chocolatey fudge-coated page content. now comes *with* the wrapper, thankfully.-->
@@ -375,52 +375,52 @@
 
 	<div class="flex-container">
 	<!--selection for auras where entries are appended-->
-	<b>Personality</b>
+	<b>성격</b>
 		<select id ="personality" name="personality" onchange="updatePersonalityUrl();">
 		</select>
 	&nbsp;
 	
 	<!--selection for species where entries are appended-->
-	<b>Species</b>
+	<b>종류</b>
 		<select id ="species" name="species" onchange="updateSpecies();">
 		</select>
 	&nbsp;
 	
 	<!--selection for forms where entries are appended-->
-	<b>Form</b>
+	<b>외형</b>
 		<select id ="form" name="form" onchange="updateForm();">
 		</select>
 
 	<!--who needs text for radio buttons, anyways?-->
 	<br><br>
 		<div id="genderRadios">
-			<input type="radio" name="gender" value="m" id="male" onchange="setGender(this.value)" checked/>
-			<label for="male" id="maleLabel" aria-disabled="false">
+			<input type="radio" name="gender" value="m" id="수컷" onchange="setGender(this.value)" checked/>
+			<label for="수컷" id="maleLabel" aria-disabled="false">
 				<img src="./res/img/gender_m_0201.png" alt="male selection">
 			</label>
-			<input type="radio" name="gender" value="f" id="female" onchange="setGender(this.value)"/> 
-			<label for="female" id="femaleLabel" aria-disabled="false">
+			<input type="radio" name="gender" value="f" id="암컷" onchange="setGender(this.value)"/> 
+			<label for="암컷" id="femaleLabel" aria-disabled="false">
 				<img src="./res/img/gender_f_0201.png" alt="female selection">
 			</label>
-			<input type="radio" name="gender" value="n" id="neutral" onchange="setGender(this.value)"> 
-			<label for="neutral" id="neutralLabel" aria-disabled="false">
+			<input type="radio" name="gender" value="n" id="중성" onchange="setGender(this.value)"> 
+			<label for="중성" id="neutralLabel" aria-disabled="false">
 				<img src="./res/img/gender_n_0201.png" alt="neutral selection">
 			</label>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<input type="radio" name="stage" value="hatch" id="hatch" onchange="setStage(this.value)"/>
-			<label for="hatch" id="hatchLabel" aria-disabled="false">
+			<input type="radio" name="stage" value="hatch" id="해치" onchange="setStage(this.value)"/>
+			<label for="해치" id="hatchLabel" aria-disabled="false">
 				<img src="./res/img/stage_hatch.png" alt="hatch selection">
 			</label>
-			<input type="radio" name="stage" value="hatchling" id="hatchling" onchange="setStage(this.value)"/> 
-			<label for="hatchling" id="hatchlingLabel" aria-disabled="false">
+			<input type="radio" name="stage" value="hatchling" id="해츨링" onchange="setStage(this.value)"/> 
+			<label for="해츨링" id="hatchlingLabel" aria-disabled="false">
 				<img src="./res/img/stage_hatchling.png" alt="hatchling selection">
 			</label>
-			<input type="radio" name="stage" value="adult" id="adult" onchange="setStage(this.value)" checked> 
-			<label for="adult" id="adultLabel" aria-disabled="false">
+			<input type="radio" name="stage" value="adult" id="성체" onchange="setStage(this.value)" checked> 
+			<label for="성체" id="adultLabel" aria-disabled="false">
 				<img src="./res/img/stage_adult.png" alt="adult selection">
 			</label>
-			<input type="radio" name="stage" value="essence" id="essence" onchange="setStage(this.value)"/>
-			<label for="essence" id="essenceLabel" aria-disabled="false">
+			<input type="radio" name="stage" value="essence" id="특수진화" onchange="setStage(this.value)"/>
+			<label for="특수진화" id="essenceLabel" aria-disabled="false">
 				<img src="./res/img/stage_essence.png" alt="essence selection">
 			</label>
 		</div>
@@ -429,15 +429,15 @@
 	<!-- ...okay fine, these ones can have text. -->
 		<div id="animRadios">
 			<input type="radio" name="animation" value="idle" id="idle" onchange="setanimState(this.value)" checked/>
-			<label for="idle" id="idleLabel">Idle</label>
+			<label for="idle" id="idleLabel">정지</label>
 			<input type="radio" name="animation" value="move" id="move" onchange="setanimState(this.value)"/> 
-			<label for="move" id="moveLabel">Moving</label>
+			<label for="move" id="moveLabel">이동</label>
 			<input type="radio" name="animation" value="holding" id="holding" onchange="setanimState(this.value)"> 
-			<label for="holding" id="holdingLabel">Holding</label>
+			<label for="holding" id="holdingLabel">들기</label>
 			<input type="radio" name="animation" value="touch" id="touch" onchange="setanimState(this.value)"> 
-			<label for="touch" id="touchLabel">Touch</label>
+			<label for="touch" id="touchLabel">터치</label>
 			<input type="radio" name="animation" value="" id="none" onchange="setanimState(this.value)">
-			<label for="none" id="touchLabel">None</label>
+			<label for="none" id="touchLabel">없음</label>
 		</div>
 		<br>
 	
@@ -446,11 +446,14 @@
 
 	<!--i don't own DVC's assets; please don't sue me.-->
 	<div class="footer">
-	Desktop view is recommended.<br>
-	Gender/Evolution icons can be clicked, as well as screen-read for accessibility.<br>
-	Dragon Village Collection assets and all Dragon Village characters ©highbrow Corp<br>
-	<a href="https://github.com/vega-spica/Personality-Sneak-Peek-Expanded">Github repository</a><br>
-	한국어: <a href=https://ctcdra.github.io/Personality-Sneak-Peek-Expanded_KRtranslate/>시토콘드리아</a>
+	데스크탑 뷰를 추천드립니다.<br>
+	성별 아이콘은 클릭도 가능하고 커서를 올리면 내용도 나옵니다.<br>
+	드래곤 빌리지 컬렉션 에셋 및 모든 드래곤 빌리지 캐릭터들 ©highbrow Corp<br>
+	<a href="https://github.com/vega-spica/Personality-Sneak-Peek-Expanded">원본 사이트 Github repository</a><br>
+	<a href="https://github.com/ctcdra/Personality-Sneak-Peek-Expanded_KRtranslate">Github repository</a><br>
+	<a href="https://community.withhive.com/dvc/ko/board/22/194998">공식 커뮤니티(이쪽에 댓달아주시면 더 연락이 빠릅니다.)</a><br>
+	한글번역: 시토콘드리아<br>
+    	인게임 미등장 외형, 미등장 드래곤(이전 시리즈 등장X)은 일부러 번역 누락해뒀습니다. 인게임에 추가되면 공식번역 맞춰서 바꿀 예정이에요~
 	</div>
 	</div>
-	
+	</div>
