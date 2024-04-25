@@ -20828,6 +20828,14 @@ const speciesJson = {
                 "color": "bk"
               }
             }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
           }
         }
       },
@@ -20843,6 +20851,14 @@ const speciesJson = {
                 "color": "bk"
               }
             }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
           }
         }
       },
@@ -20856,6 +20872,14 @@ const speciesJson = {
               },
               "m": {
                 "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_adult_w"
               }
             }
           }
@@ -24584,6 +24608,56 @@ const speciesJson = {
       }
     }
   },
+  "kinder": {
+    "speciesDisplay": "킨더",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "taros": {
     "speciesDisplay": "타로스",
     "stage": {
@@ -25070,6 +25144,106 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "toddletomtom": {
+    "speciesDisplay": "터들톰톰",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tonton": {
+    "speciesDisplay": "톤톤",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
               }
             }
           }
@@ -27831,6 +28005,320 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "pusom": {
+    "speciesDisplay": "푸솜",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "02",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "03",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "04",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "05",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "06",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "07",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "08",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "09",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "02",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "03",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "04",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "05",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "06",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "07",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "08",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "09",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "02",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "03",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "04",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "05",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "06",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "07",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "08",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "09",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
               }
             }
           }
