@@ -2893,6 +2893,52 @@ const speciesJson = {
   "snowflowerpopomo": {
     "speciesDisplay": "눈꽃 포포모",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -5724,6 +5770,52 @@ const speciesJson = {
   "razikas": {
     "speciesDisplay": "라지카스",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -6608,6 +6700,52 @@ const speciesJson = {
   "redwyvern": {
     "speciesDisplay": "레드 와이번",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -6636,6 +6774,52 @@ const speciesJson = {
   "redtaabire": {
     "speciesDisplay": "레드 타아비레",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -6664,6 +6848,52 @@ const speciesJson = {
   "redbulldragon": {
     "speciesDisplay": "레드불 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7028,6 +7258,52 @@ const speciesJson = {
   "rekmall": {
     "speciesDisplay": "렉몰",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7130,6 +7406,58 @@ const speciesJson = {
   "rosegold": {
     "speciesDisplay": "로즈골드",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "dragon_n_hatch_w"
+              },
+              "m": {
+                "undeadres": "drake_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "dragon_w_hatchling_w"
+              },
+              "m": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7161,6 +7489,52 @@ const speciesJson = {
   "rugar": {
     "speciesDisplay": "루가르",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7749,6 +8123,52 @@ const speciesJson = {
   "rusalka": {
     "speciesDisplay": "루살카",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7777,6 +8197,52 @@ const speciesJson = {
   "ruthperon": {
     "speciesDisplay": "루스페론",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "feros_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "feros_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7929,6 +8395,52 @@ const speciesJson = {
   "rupo": {
     "speciesDisplay": "루포",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -7957,6 +8469,52 @@ const speciesJson = {
   "rupia": {
     "speciesDisplay": "루피아",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -11622,6 +12180,74 @@ const speciesJson = {
   "rock": {
     "speciesDisplay": "바위 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "스톤오어",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "스톤오어",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -13025,6 +13651,52 @@ const speciesJson = {
   "sealeddarknix": {
     "speciesDisplay": "봉인된 다크닉스",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14255,6 +14927,52 @@ const speciesJson = {
   "sand": {
     "speciesDisplay": "샌드 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14283,6 +15001,52 @@ const speciesJson = {
   "sharkgon": {
     "speciesDisplay": "샤크곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14330,6 +15094,52 @@ const speciesJson = {
   "sharptail": {
     "speciesDisplay": "샤프테일",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14358,6 +15168,52 @@ const speciesJson = {
   "siamesedragon": {
     "speciesDisplay": "샴 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "twohead_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "twohead_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14386,6 +15242,30 @@ const speciesJson = {
   "shadow": {
     "speciesDisplay": "섀도우 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "bk"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "bk"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14403,6 +15283,46 @@ const speciesJson = {
   "serpentdragon": {
     "speciesDisplay": "서펀트 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "m": {
+                "undeadres": "worm_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "m": {
+                "undeadres": "worm_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14428,6 +15348,46 @@ const speciesJson = {
   "serpentflower": {
     "speciesDisplay": "서펀트플라워",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "worm_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "worm_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14453,6 +15413,52 @@ const speciesJson = {
   "seere": {
     "speciesDisplay": "세에레",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14636,6 +15642,52 @@ const speciesJson = {
   "solardragon": {
     "speciesDisplay": "솔라 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14664,6 +15716,118 @@ const speciesJson = {
   "solucanis": {
     "speciesDisplay": "솔루카니스",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "청동",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "달을 문",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "해를 문",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "청동",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "달을 문",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "해를 문",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14725,6 +15889,52 @@ const speciesJson = {
   "suradragon": {
     "speciesDisplay": "수라 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14781,6 +15991,96 @@ const speciesJson = {
   "surtr": {
     "speciesDisplay": "수르트",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "지배자",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "종말",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "지배자",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "종말",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14955,6 +16255,52 @@ const speciesJson = {
   "sullae": {
     "speciesDisplay": "술래",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -14983,6 +16329,52 @@ const speciesJson = {
   "slosi": {
     "speciesDisplay": "쉴로시",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15011,6 +16403,52 @@ const speciesJson = {
   "snowfairydragon": {
     "speciesDisplay": "스노우 페어리",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15039,6 +16477,52 @@ const speciesJson = {
   "snowfrostdragon": {
     "speciesDisplay": "스노우 빙하고룡",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15067,6 +16551,78 @@ const speciesJson = {
   "smart": {
     "speciesDisplay": "스마트 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천문학자",
+            "genders": {
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "관찰자",
+            "genders": {
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "m": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천문학자",
+            "genders": {
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "관찰자",
+            "genders": {
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "m": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15108,6 +16664,74 @@ const speciesJson = {
   "swamp": {
     "speciesDisplay": "스왐프 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "단풍 스왐프",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "단풍 스왐프",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15147,6 +16771,96 @@ const speciesJson = {
   "skylancer": {
     "speciesDisplay": "스카이랜서",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "창공",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "벽력뇌제",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "창공",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "벽력뇌제",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15197,6 +16911,52 @@ const speciesJson = {
   "scarlet": {
     "speciesDisplay": "스칼렛",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15225,6 +16985,42 @@ const speciesJson = {
   "skelegon": {
     "speciesDisplay": "스켈레곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              },
+              "n": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              },
+              "n": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15248,6 +17044,52 @@ const speciesJson = {
   "scorpiondragon": {
     "speciesDisplay": "스콜피온 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "scorpion_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "scorpion_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15276,6 +17118,52 @@ const speciesJson = {
   "skoorum": {
     "speciesDisplay": "스쿠룸",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15304,6 +17192,118 @@ const speciesJson = {
   "skinkdragon": {
     "speciesDisplay": "스킨크 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "화이트",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "플레임",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "아잔틱",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "화이트",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "플레임",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "아잔틱",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "muscle_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15365,6 +17365,52 @@ const speciesJson = {
   "starrydragon": {
     "speciesDisplay": "스타리 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "lucio_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "lucio_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15393,6 +17439,74 @@ const speciesJson = {
   "starace": {
     "speciesDisplay": "스타에이스",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "Underground Castle",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "Underground Castle",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15482,6 +17596,140 @@ const speciesJson = {
   "stealthdragon": {
     "speciesDisplay": "스텔스 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "은신",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "설원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "환상",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "분노",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "은신",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "설원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "환상",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "분노",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15628,6 +17876,58 @@ const speciesJson = {
   "spicy": {
     "speciesDisplay": "스파이시",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              },
+              "n": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              },
+              "n": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15659,6 +17959,58 @@ const speciesJson = {
   "spike": {
     "speciesDisplay": "스파이크 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "dragon_n_hatch_w"
+              },
+              "m": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "f": {
+                "undeadres": "dragon_w_hatchling_w"
+              },
+              "m": {
+                "undeadres": "muscle_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15690,6 +18042,52 @@ const speciesJson = {
   "spinedragon": {
     "speciesDisplay": "스파인 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15718,6 +18116,96 @@ const speciesJson = {
   "splender": {
     "speciesDisplay": "스플렌더",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "플라밍고",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "비둘기",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "플라밍고",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "비둘기",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "wyvern_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15768,6 +18256,124 @@ const speciesJson = {
   "spica": {
     "speciesDisplay": "스피카",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "별똥별",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02_m1": {
+            "formDisplay": "별똥별 (특수 모션)",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "블랙홀",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "03_m1": {
+            "formDisplay": "블랙홀 (특수 모션)",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "별똥별",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02_m1": {
+            "formDisplay": "별똥별 (특수 모션)",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "블랙홀",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "03_m1": {
+            "formDisplay": "블랙홀 (특수 모션)",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -15832,6 +18438,62 @@ const speciesJson = {
   "slimedragon": {
     "speciesDisplay": "슬라임 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "n": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "오렌지 슬라임",
+            "genders": {
+              "n": {
+                "color": "yr"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "핑크 슬라임",
+            "genders": {
+              "n": {
+                "color": "rp"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "n": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "오렌지 슬라임",
+            "genders": {
+              "n": {
+                "color": "yr"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "핑크 슬라임",
+            "genders": {
+              "n": {
+                "color": "rp"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -16064,6 +18726,74 @@ const speciesJson = {
   "sigma": {
     "speciesDisplay": "시그마",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "페르시온",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "페르시온",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -16218,6 +18948,96 @@ const speciesJson = {
   "sixleghorn": {
     "speciesDisplay": "식스레그혼",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "밤하늘 식스레그혼",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "태양빛 식스레그혼",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "sixleg_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "밤하늘 식스레그혼",
+            "genders": {
+              "f": {
+                "color": "pb"
+              },
+              "m": {
+                "color": "pb"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "태양빛 식스레그혼",
+            "genders": {
+              "f": {
+                "color": "rp"
+              },
+              "m": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "sixleg_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -16392,6 +19212,52 @@ const speciesJson = {
   "thunderboltdragon": {
     "speciesDisplay": "썬더볼트 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "fin_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "fin_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -20052,6 +22918,52 @@ const speciesJson = {
   "remorseflorea": {
     "speciesDisplay": "연민의 플로레",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -24860,6 +27772,52 @@ const speciesJson = {
   "taros": {
     "speciesDisplay": "타로스",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "worm_nl_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "worm_nl_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -24888,6 +27846,52 @@ const speciesJson = {
   "taabire": {
     "speciesDisplay": "타아비레",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -24916,6 +27920,52 @@ const speciesJson = {
   "taygeta": {
     "speciesDisplay": "타이게타",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25028,6 +28078,52 @@ const speciesJson = {
   "tilant": {
     "speciesDisplay": "타일런트",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25056,6 +28152,96 @@ const speciesJson = {
   "tattoodragon": {
     "speciesDisplay": "타투 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "블랙",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "낙서",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "블랙",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "낙서",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25106,6 +28292,58 @@ const speciesJson = {
   "teddydragon": {
     "speciesDisplay": "테디 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "지하성채",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "지하성채",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25137,6 +28375,36 @@ const speciesJson = {
   "tediblo": {
     "speciesDisplay": "테디블로",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25297,6 +28565,52 @@ const speciesJson = {
   "taildragon": {
     "speciesDisplay": "테일 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25551,6 +28865,52 @@ const speciesJson = {
   "trexdragon": {
     "speciesDisplay": "티라노 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25719,6 +29079,52 @@ const speciesJson = {
   "tilki": {
     "speciesDisplay": "틸키",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
@@ -25747,6 +29153,62 @@ const speciesJson = {
   "timber": {
     "speciesDisplay": "팀버 드래곤",
     "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "n": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "벚나무",
+            "genders": {
+              "n": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "treedragon_w_hatch_yr"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "n": {
+                "color": "g"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "벚나무",
+            "genders": {
+              "n": {
+                "color": "rp"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "treedragon_w_hatchling_yr"
+              }
+            }
+          }
+        }
+      },
       "adult": {
         "forms": {
           "01": {
