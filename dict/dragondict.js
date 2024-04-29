@@ -21097,13 +21097,29 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "빛나는 숨결",
             "genders": {
               "f": {
                 "color": "bk"
               },
               "m": {
                 "color": "bk"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (빛나는 숨결)",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
@@ -21123,13 +21139,29 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "빛나는 숨결",
             "genders": {
               "f": {
                 "color": "bk"
               },
               "m": {
                 "color": "bk"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (빛나는 숨결)",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
@@ -21149,13 +21181,29 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "빛나는 숨결",
             "genders": {
               "f": {
                 "color": "bk"
               },
               "m": {
                 "color": "bk"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (빛나는 숨결)",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
@@ -26075,6 +26123,14 @@ const speciesJson = {
                 "color": "pb"
               }
             }
+          },
+          "deaddead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
           }
         }
       },
@@ -26110,6 +26166,14 @@ const speciesJson = {
               },
               "m": {
                 "color": "pb"
+              }
+            }
+          },
+          "deaddead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
@@ -31705,7 +31769,7 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "인형나라의 공룡",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31716,7 +31780,7 @@ const speciesJson = {
             }
           },
           "03": {
-            "formDisplay": "03",
+            "formDisplay": "도넛나라의 여우",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31727,7 +31791,7 @@ const speciesJson = {
             }
           },
           "04": {
-            "formDisplay": "04",
+            "formDisplay": "꿈나라의 유니콘",
             "genders": {
               "f": {
                 "color": "p"
@@ -31738,7 +31802,7 @@ const speciesJson = {
             }
           },
           "05": {
-            "formDisplay": "05",
+            "formDisplay": "과일나라의 오리",
             "genders": {
               "f": {
                 "color": "w"
@@ -31749,7 +31813,7 @@ const speciesJson = {
             }
           },
           "06": {
-            "formDisplay": "06",
+            "formDisplay": "공룡인형",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31760,7 +31824,7 @@ const speciesJson = {
             }
           },
           "07": {
-            "formDisplay": "07",
+            "formDisplay": "여우인형",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31771,7 +31835,7 @@ const speciesJson = {
             }
           },
           "08": {
-            "formDisplay": "08",
+            "formDisplay": "유니콘인형",
             "genders": {
               "f": {
                 "color": "p"
@@ -31782,7 +31846,7 @@ const speciesJson = {
             }
           },
           "09": {
-            "formDisplay": "09",
+            "formDisplay": "오리인형",
             "genders": {
               "f": {
                 "color": "w"
@@ -31808,7 +31872,7 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "인형나라의 공룡",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31819,7 +31883,7 @@ const speciesJson = {
             }
           },
           "03": {
-            "formDisplay": "03",
+            "formDisplay": "도넛나라의 여우",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31830,7 +31894,7 @@ const speciesJson = {
             }
           },
           "04": {
-            "formDisplay": "04",
+            "formDisplay": "꿈나라의 유니콘",
             "genders": {
               "f": {
                 "color": "p"
@@ -31841,7 +31905,7 @@ const speciesJson = {
             }
           },
           "05": {
-            "formDisplay": "05",
+            "formDisplay": "과일나라의 오리",
             "genders": {
               "f": {
                 "color": "w"
@@ -31852,7 +31916,7 @@ const speciesJson = {
             }
           },
           "06": {
-            "formDisplay": "06",
+            "formDisplay": "공룡인형",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31863,7 +31927,7 @@ const speciesJson = {
             }
           },
           "07": {
-            "formDisplay": "07",
+            "formDisplay": "여우인형",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31874,7 +31938,7 @@ const speciesJson = {
             }
           },
           "08": {
-            "formDisplay": "08",
+            "formDisplay": "유니콘인형",
             "genders": {
               "f": {
                 "color": "p"
@@ -31885,7 +31949,7 @@ const speciesJson = {
             }
           },
           "09": {
-            "formDisplay": "09",
+            "formDisplay": "오리인형",
             "genders": {
               "f": {
                 "color": "w"
@@ -31911,7 +31975,7 @@ const speciesJson = {
             }
           },
           "02": {
-            "formDisplay": "02",
+            "formDisplay": "인형나라의 공룡",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31922,7 +31986,7 @@ const speciesJson = {
             }
           },
           "03": {
-            "formDisplay": "03",
+            "formDisplay": "도넛나라의 여우",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31933,7 +31997,7 @@ const speciesJson = {
             }
           },
           "04": {
-            "formDisplay": "04",
+            "formDisplay": "꿈나라의 유니콘",
             "genders": {
               "f": {
                 "color": "p"
@@ -31944,7 +32008,7 @@ const speciesJson = {
             }
           },
           "05": {
-            "formDisplay": "05",
+            "formDisplay": "과일나라의 오리",
             "genders": {
               "f": {
                 "color": "w"
@@ -31955,7 +32019,7 @@ const speciesJson = {
             }
           },
           "06": {
-            "formDisplay": "06",
+            "formDisplay": "공룡인형",
             "genders": {
               "f": {
                 "color": "bg"
@@ -31966,7 +32030,7 @@ const speciesJson = {
             }
           },
           "07": {
-            "formDisplay": "07",
+            "formDisplay": "여우인형",
             "genders": {
               "f": {
                 "color": "yr"
@@ -31977,7 +32041,7 @@ const speciesJson = {
             }
           },
           "08": {
-            "formDisplay": "08",
+            "formDisplay": "유니콘인형",
             "genders": {
               "f": {
                 "color": "p"
@@ -31988,7 +32052,7 @@ const speciesJson = {
             }
           },
           "09": {
-            "formDisplay": "09",
+            "formDisplay": "오리인형",
             "genders": {
               "f": {
                 "color": "w"
