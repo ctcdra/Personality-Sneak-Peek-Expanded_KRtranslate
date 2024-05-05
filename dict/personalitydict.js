@@ -31,6 +31,8 @@ const personalityJson = {
 	        "back":"aura_s_transparent3",
 	        "front":"aura_s_star"
 	},
+	"나만의":{
+	},
 	"내향적인":{
 	        "back":"aura_a2_red",
 	        "front":"a2"
