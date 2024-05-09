@@ -35,7 +35,7 @@ const cavebgJson = {
     "페루나 스페셜": {
         "res": "feruna/feruna_bg_02/feruna_bg_02"
     },
-    "2023 할로윈": {
+    "할로윈 2023": {
         "res": "halloween_2023/halloween_2023_bg_01/halloween_2023_bg_01"
     },
     "야누스": {
