@@ -97,6 +97,11 @@ const personalityJson = {
 	        "back":"aura_a_navypurple",
 	        "front":"a3_purple"
 	},
+	"비밀스러운": {
+		"each": "aura_s_arcane",
+		"back": "back",
+		"front": "front"
+	},
 	"사교적인":{
 	        "back":"aura_a_pastelpink",
 	        "front":"a3_purple"
