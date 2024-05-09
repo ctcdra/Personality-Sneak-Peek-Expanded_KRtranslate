@@ -53,7 +53,7 @@ const cavefloorJson = {
     "메티스 스페셜": {
         "res": "metis/metis_floor_02/metis_floor_02"
     },
-    "Old Palace": {
+    "오래된 궁궐": {
         "res": "korean_palace/korean_palace_floor_01/korean_palace_floor_01"
     },
     "푸솜": {
