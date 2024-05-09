@@ -7856,7 +7856,7 @@ const speciesJson = {
         }
       }
     }
-  },,
+  },
   "lulu": {
     "speciesDisplay": "루루",
     "stage": {
