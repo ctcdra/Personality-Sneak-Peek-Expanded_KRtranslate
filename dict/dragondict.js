@@ -1,4 +1,21 @@
 const speciesJson = {
+  "dummydragon": {
+    "speciesDisplay": "[더미 드래곤]",
+    "stage": {
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "n": {
+                "color": "n"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "centipededragon": {
     "speciesDisplay": "G네",
     "stage": {
