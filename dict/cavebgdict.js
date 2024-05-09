@@ -50,7 +50,7 @@ const cavebgJson = {
     "메티스 스페셜": {
         "res": "metis/metis_bg_02/metis_bg_02"
     },
-    "Old Palace": {
+    "오래된 궁궐": {
         "res": "korean_palace/korean_palace_bg_01/korean_palace_bg_01"
     },
     "푸솜": {
