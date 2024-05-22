@@ -32569,6 +32569,14 @@ const speciesJson = {
                 "color": "y"
               }
             }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
           }
         }
       },
@@ -32584,6 +32592,14 @@ const speciesJson = {
                 "color": "y"
               }
             }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
           }
         }
       },
@@ -32597,6 +32613,14 @@ const speciesJson = {
               },
               "m": {
                 "color": "y"
+              }
+            }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
@@ -35083,6 +35107,14 @@ const speciesJson = {
                 "color": "y"
               }
             }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
           }
         }
       },
@@ -35098,6 +35130,14 @@ const speciesJson = {
                 "color": "y"
               }
             }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
           }
         }
       },
@@ -35111,6 +35151,14 @@ const speciesJson = {
               },
               "m": {
                 "color": "y"
+              }
+            }
+          },
+          "deaddead": {
+            "formDisplay": "Undead",
+            "genders": {
+              "n": {
+                "color": ".png"
               }
             }
           }
