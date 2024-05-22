@@ -159,6 +159,11 @@ const personalityJson = {
 	        "back" : "back",
 	        "front" : "front"
 	},
+	"신나는": {
+		"each": "aura_s_exciting_blithe",
+		"back": "back_a",
+		"front": "front_a"
+	},
 	"신비의":{
 	        "back":"aura_a2_greenmint",
 	        "front":"a2_l"
@@ -274,6 +279,11 @@ const personalityJson = {
 	"종말의":{
 	        "back":"aura_s_end",
 	        "front":"aura_s_end"
+	},
+	"즐거운": {
+		"each": "aura_s_exciting_blithe",
+		"back": "back_b",
+		"front": "front_b"
 	},
 	"차분한":{
 	        "back":"aura_b_brown",
