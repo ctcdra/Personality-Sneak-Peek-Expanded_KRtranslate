@@ -17100,7 +17100,15 @@ const speciesJson = {
               }
             }
           },
-          "undead": {
+          "undead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          },
+          "undead02": {
             "formDisplay": "언데드",
             "genders": {
               "n": {
@@ -17211,7 +17219,15 @@ const speciesJson = {
               }
             }
           },
-          "undead": {
+          "undead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          },
+          "undead02": {
             "formDisplay": "언데드",
             "genders": {
               "n": {
@@ -17322,7 +17338,15 @@ const speciesJson = {
               }
             }
           },
-          "undead": {
+          "undead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_adult_w"
+              }
+            }
+          },
+          "undead02": {
             "formDisplay": "언데드",
             "genders": {
               "n": {
@@ -23639,6 +23663,29 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "캡사이신",
+            "genders": {
+              "m": {
+                "color": "r"
               }
             }
           }
@@ -30200,6 +30247,21 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
               }
             }
           }
