@@ -31,6 +31,11 @@ const personalityJson = {
 	        "back":"aura_s_transparent3",
 	        "front":"aura_s_star"
 	},
+	"끈기있는": {
+		"each": "aura_s_persistent_lively",
+		"back": "back_a",
+		"front": "front_a"
+	},
 	"나만의":{
 	},
 	"내향적인":{
@@ -332,6 +337,11 @@ const personalityJson = {
 	"혼돈의":{
 	        "back":"aura_s_blackblue",
 	        "front":"aura_s_blackblue"
+	},
+	"활기찬": {
+		"each": "aura_s_persistent_lively",
+		"back": "back_b",
+		"front": "front_b"
 	},
 	"황야의":{
 	        "back":"aura_s_sunset",
