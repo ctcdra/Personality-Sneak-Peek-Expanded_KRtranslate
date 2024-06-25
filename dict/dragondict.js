@@ -16134,7 +16134,7 @@ const speciesJson = {
                 "color": "pb"
               }
             }
-          },,
+          },
           "undead01": {
             "formDisplay": "언데드 (기본)",
             "genders": {
