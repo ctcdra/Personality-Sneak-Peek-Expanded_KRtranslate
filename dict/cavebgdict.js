@@ -62,6 +62,21 @@ const cavebgJson = {
     /*"Ranky": {
         "res": "ranky/ranky_bg_01/ranky_bg_01"
     },*/
+    /*"Shockwave": {
+        "res": "shockwave/shockwave_bg_01/shockwave_bg_01"
+    },
+    "Shockwave (Special)": {
+        "res": "shockwave/shockwave_bg_02/shockwave_bg_02"
+    },*/
+    "심포니아": {
+        "res": "symphonia/symphonia_bg_01/symphonia_bg_01"
+    },
+    "심포니아 스페셜": {
+        "res": "symphonia/symphonia_bg_02/symphonia_bg_02"
+    },
+    "기억의 신전": {
+        "res": "templeofmemory/templeofmemory_bg_01/templeofmemory_bg_01"
+    },
     "바스카": {
         "res": "vaska/vaska_bg_01/vaska_bg_01"
     },
