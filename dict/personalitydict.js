@@ -23,6 +23,11 @@ const personalityJson = {
 	        "back":"aura_s_purplelight",
 	        "front":"aura_s_purplelight"
 	},
+	"귀여운": {
+		"each": "aura_s_stardust",
+		"back": "back_b",
+		"front": "front_b"
+	},
 	"기품있는":{
 	        "back":"aura_s_blackhole",
 	        "front":"aura_s_star"
@@ -81,6 +86,11 @@ const personalityJson = {
 	"몰입하는":{
 	        "back":"aura_s_universe2",
 	        "front":"aura_s_universe2"
+	},
+	"무모한": {
+		"each": "aura_a4",
+		"back": "back_b",
+		"front": "front_a"
 	},
 	"미지의":{
 	        "back":"aura_s_universe3",
@@ -257,8 +267,8 @@ const personalityJson = {
 	},
 	"장난스러운" : {
 	        "each" : "aura_s_stardust",
-	        "back" : "back",
-	        "front" : "front"
+	        "back" : "back_a",
+	        "front" : "front_a"
 	},
 	"재능있는":{
 	        "back":"aura_s_game_b",
@@ -337,6 +347,11 @@ const personalityJson = {
 	"혼돈의":{
 	        "back":"aura_s_blackblue",
 	        "front":"aura_s_blackblue"
+	},
+	"화가 많은": {
+		"each": "aura_a4",
+		"back": "back_a",
+		"front": "front_a"
 	},
 	"활기찬": {
 		"each": "aura_s_persistent_lively",
