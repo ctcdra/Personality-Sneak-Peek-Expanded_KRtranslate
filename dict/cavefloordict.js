@@ -65,6 +65,21 @@ const cavefloorJson = {
     /*"Ranky": {
         "res": "ranky/ranky_floor_01/ranky_floor_01"
     },*/
+    /*"Shockwave": {
+        "res": "shockwave/shockwave_floor_01/shockwave_floor_01"
+    },
+    "Shockwave (Special)": {
+        "res": "shockwave/shockwave_floor_02/shockwave_floor_02"
+    },*/
+    "심포니아": {
+    "res": "symphonia/symphonia_floor_01/symphonia_floor_01"
+    },
+    "심포니아 스페셜": {
+    "res": "symphonia/symphonia_floor_02/symphonia_floor_02"
+    },
+    "기억의 신전": {
+        "res": "templeofmemory/templeofmemory_floor_01/templeofmemory_floor_01"
+    },
     "바스카": {
         "res": "vaska/vaska_floor_01/vaska_floor_01"
     },
