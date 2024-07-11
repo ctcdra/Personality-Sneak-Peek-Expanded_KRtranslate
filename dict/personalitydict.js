@@ -87,6 +87,11 @@ const personalityJson = {
 	        "back":"aura_s_universe2",
 	        "front":"aura_s_universe2"
 	},
+	"몽환적인": {
+		"each": "aura_s_dreamlike_enigmatic",
+		"back": "back_a",
+		"front": "front_a"
+	},
 	"무모한": {
 		"each": "aura_a4",
 		"back": "back_b",
@@ -160,6 +165,11 @@ const personalityJson = {
 	"소극적인":{
 	        "back":"aura_a_orange",
 	        "front":"a"
+	},
+	"수수께끼의": {
+		"each": "aura_s_dreamlike_enigmatic",
+		"back": "back_b",
+		"front": "front_b"
 	},
 	"수줍은":{
 	        "back":"aura_b_whight",
