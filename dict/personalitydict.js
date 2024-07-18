@@ -318,6 +318,11 @@ const personalityJson = {
 	        "back":"aura_b_yellow",
 	        "front":""
 	},
+	"청량한": {
+		"each": "aura_s_refreshing",
+		"back": "back",
+		"front": "front"
+	},
 	"촐랑대는":{
 	        "back":"aura_b_pink",
 	        "front":""
