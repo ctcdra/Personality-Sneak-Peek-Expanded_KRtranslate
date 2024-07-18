@@ -12242,6 +12242,146 @@ const speciesJson = {
       }
     }
   },
+  "baba": {
+    "speciesDisplay": "바바",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "바다토끼",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (바다토끼)",
+            "genders": {
+              "f": {
+                "color": ".png"
+              },
+              "m": {
+                "color": ".png"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "바다토끼",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (바다토끼)",
+            "genders": {
+              "f": {
+                "color": ".png"
+              },
+              "m": {
+                "color": ".png"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "바다토끼",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "deaddead01": {
+            "formDisplay": "언데드 (기본)",
+            "genders": {
+              "n": {
+                "color": ".png"
+              }
+            }
+          },
+          "deaddead02": {
+            "formDisplay": "언데드 (바다토끼)",
+            "genders": {
+              "f": {
+                "color": ".png"
+              },
+              "m": {
+                "color": ".png"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "dummbbluedragon": {
     "speciesDisplay": "바부 청룡",
     "stage": {
@@ -15701,6 +15841,113 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "biblos": {
+    "speciesDisplay": "비블로스",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "탐구자",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "탐구자",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "탐구자",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "drake_w_adult_w"
               }
             }
           }
