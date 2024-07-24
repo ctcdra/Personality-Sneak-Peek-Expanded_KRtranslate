@@ -271,6 +271,11 @@ const personalityJson = {
 	        "back":"aura_s_bluelight",
 	        "front":"aura_s_bluelight"
 	},
+	"은총의": {
+		"each": "aura_s_blessing",
+		"back": "back",
+		"front": "front"
+	},
 	"자애로운" : {
 	        "back" : "aura_a2_pink",
 	        "front" : "a2"
@@ -376,5 +381,10 @@ const personalityJson = {
 	"황야의":{
 	        "back":"aura_s_sunset",
 	        "front":"aura_s_sunset"
+	},
+	"희망의": {
+		"each": "aura_s_hopeful",
+		"back": "back_b",
+		"front": "front_b"
 	}
 }
