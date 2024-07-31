@@ -436,6 +436,80 @@ const speciesJson = {
       }
     }
   },
+  "galaxia": {
+    "speciesDisplay": "갤럭시아",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_w_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "girdletaildragon": {
     "speciesDisplay": "거들테일 드래곤",
     "stage": {
@@ -2295,7 +2369,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -2332,7 +2406,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -2369,7 +2443,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -5873,7 +5947,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -5895,7 +5969,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -5907,7 +5981,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -5929,7 +6003,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -5941,7 +6015,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -5974,7 +6048,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -8107,7 +8181,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -8118,7 +8192,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "drake_n_hatch_w"
@@ -8130,7 +8204,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -8141,7 +8215,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "drake_n_hatchling_w"
@@ -8153,7 +8227,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -8164,7 +8238,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "drake_n_adult_w"
@@ -8856,7 +8930,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -8878,7 +8952,7 @@ const speciesJson = {
             }
           },
           "undead01": {
-            "formDisplay": "Undead (Default)",
+            "formDisplay": "언데드 (일반)",
             "genders": {
               "f": {
                 "undeadres": "lucir01_n_hatch_w"
@@ -8889,7 +8963,7 @@ const speciesJson = {
             }
           },
           "undead02": {
-            "formDisplay": "Undead (구원)",
+            "formDisplay": "언데드 (구원)",
             "genders": {
               "f": {
                 "undeadres": "lucir02_n_hatch_w"
@@ -8904,7 +8978,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -8926,7 +9000,7 @@ const speciesJson = {
             }
           },
           "undead01": {
-            "formDisplay": "Undead (Default)",
+            "formDisplay": "언데드 (일반)",
             "genders": {
               "f": {
                 "undeadres": "lucir01_f_hatchling_w"
@@ -8937,7 +9011,7 @@ const speciesJson = {
             }
           },
           "undead02": {
-            "formDisplay": "Undead (구원)",
+            "formDisplay": "언데드 (구원)",
             "genders": {
               "f": {
                 "undeadres": "lucir02_f_hatchling_w"
@@ -8952,7 +9026,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -8974,7 +9048,7 @@ const speciesJson = {
             }
           },
           "undead01": {
-            "formDisplay": "Undead (Default)",
+            "formDisplay": "언데드 (일반)",
             "genders": {
               "f": {
                 "undeadres": "lucir01_f_adult_w"
@@ -8985,7 +9059,7 @@ const speciesJson = {
             }
           },
           "undead02": {
-            "formDisplay": "Undead (구원)",
+            "formDisplay": "언데드 (구원)",
             "genders": {
               "f": {
                 "undeadres": "lucir02_f_adult_w"
@@ -9079,7 +9153,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -9090,7 +9164,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -9102,7 +9176,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -9113,7 +9187,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatchling_w"
@@ -9125,7 +9199,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -9136,7 +9210,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
@@ -9845,7 +9919,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "n": {
                 "color": "bk"
@@ -9853,7 +9927,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "eggend_n_hatch_w"
@@ -9865,7 +9939,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "n": {
                 "color": "bk"
@@ -9873,7 +9947,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "eggend_n_hatchling_w"
@@ -9885,7 +9959,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "n": {
                 "color": "bk"
@@ -9893,7 +9967,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "eggend_n_adult_w"
@@ -11962,7 +12036,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -11999,7 +12073,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -12036,7 +12110,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -12078,7 +12152,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -12089,7 +12163,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -12101,7 +12175,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -12112,7 +12186,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatchling_w"
@@ -12124,7 +12198,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -12135,7 +12209,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
@@ -12646,7 +12720,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -12657,7 +12731,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "fin_n_hatch_w"
@@ -12669,7 +12743,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -12680,7 +12754,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "fin_n_hatchling_w"
@@ -12692,7 +12766,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -12703,7 +12777,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "fin_n_adult_w"
@@ -16771,7 +16845,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -16782,7 +16856,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -16794,7 +16868,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -16805,7 +16879,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatchling_w"
@@ -16817,7 +16891,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -16839,7 +16913,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
@@ -18075,7 +18149,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18086,7 +18160,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -18098,7 +18172,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18109,7 +18183,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -18121,7 +18195,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18132,7 +18206,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -18279,7 +18353,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -18290,7 +18364,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "treedragon_w_hatch_yr"
@@ -18302,7 +18376,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -18313,7 +18387,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "treedragon_w_hatchling_yr"
@@ -18325,7 +18399,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -18358,7 +18432,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "treedragon_w_hatchling_yr"
@@ -18375,7 +18449,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18412,7 +18486,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18449,7 +18523,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -18491,7 +18565,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "pb"
@@ -18528,7 +18602,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "pb"
@@ -18565,7 +18639,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "pb"
@@ -19733,7 +19807,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -19744,7 +19818,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -19756,7 +19830,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -19767,7 +19841,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -19779,7 +19853,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -19801,7 +19875,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -20598,7 +20672,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -20609,7 +20683,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -20621,7 +20695,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -20632,7 +20706,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -20644,7 +20718,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -20655,7 +20729,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -24253,7 +24327,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24264,7 +24338,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -24276,7 +24350,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24287,7 +24361,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatchling_w"
@@ -24299,7 +24373,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24310,7 +24384,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
@@ -24327,7 +24401,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24338,7 +24412,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -24350,7 +24424,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24369,7 +24443,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -24381,7 +24455,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24400,7 +24474,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -24631,7 +24705,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24646,7 +24720,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24661,7 +24735,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24862,7 +24936,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24899,7 +24973,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -24936,7 +25010,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -25444,7 +25518,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -25455,7 +25529,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -25467,7 +25541,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -25478,7 +25552,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -25490,7 +25564,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -25501,7 +25575,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -26345,7 +26419,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -26360,7 +26434,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -26375,7 +26449,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -27170,7 +27244,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27207,7 +27281,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27244,7 +27318,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27360,7 +27434,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27393,7 +27467,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -27405,7 +27479,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27438,7 +27512,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -27450,7 +27524,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "bk"
@@ -27483,7 +27557,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -28250,6 +28324,344 @@ const speciesJson = {
       }
     }
   },
+  "lotusfiredragon": {
+    "speciesDisplay": "연화룡",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "연꽃",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "바다소원",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "피안화",
+            "genders": {
+              "f": {
+                "color": "bk"
+              },
+              "m": {
+                "color": "bk"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "루시드드림",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "augus": {
     "speciesDisplay": "오거스",
     "stage": {
@@ -28330,7 +28742,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28341,7 +28753,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "wyvern_w_hatch_w"
@@ -28353,7 +28765,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28364,7 +28776,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "wyvern_w_hatchling_w"
@@ -28376,7 +28788,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28387,7 +28799,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "wyvern_w_adult_w"
@@ -28552,7 +28964,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28578,7 +28990,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28604,7 +29016,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28718,7 +29130,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28729,7 +29141,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "dragon_n_hatch_w"
@@ -28744,7 +29156,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28755,7 +29167,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "dragon_n_hatchling_w"
@@ -28770,7 +29182,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "y"
@@ -28781,7 +29193,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "dragon_n_adult_w"
@@ -28801,7 +29213,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -28812,7 +29224,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -28824,7 +29236,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -28835,7 +29247,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -28847,7 +29259,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "yr"
@@ -28858,7 +29270,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -29284,7 +29696,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "m": {
                 "color": "rp"
@@ -29300,7 +29712,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -29312,7 +29724,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "m": {
                 "color": "rp"
@@ -29328,7 +29740,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -29340,7 +29752,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "m": {
                 "color": "rp"
@@ -29356,7 +29768,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -30663,7 +31075,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -30685,7 +31097,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -30697,7 +31109,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -30719,7 +31131,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -30731,7 +31143,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "b"
@@ -30753,7 +31165,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -31836,7 +32248,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -31847,7 +32259,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_n_hatch_w"
@@ -31859,7 +32271,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -31870,7 +32282,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -31882,7 +32294,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "g"
@@ -31893,7 +32305,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -31910,7 +32322,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -31921,7 +32333,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "pair_n_hatch_w"
@@ -31933,7 +32345,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -31944,7 +32356,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "pair_n_hatchling_w"
@@ -31956,7 +32368,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -31967,7 +32379,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "pair_n_hatchling_w"
@@ -32699,7 +33111,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -32710,7 +33122,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatch_w"
@@ -32722,7 +33134,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -32733,7 +33145,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_hatchling_w"
@@ -32745,7 +33157,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -32756,7 +33168,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "n": {
                 "undeadres": "dragon_w_adult_w"
@@ -32773,7 +33185,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -32799,7 +33211,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -32825,7 +33237,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "w"
@@ -37332,7 +37744,7 @@ const speciesJson = {
       "hatch": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -37340,7 +37752,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "eggend_n_hatch_w"
@@ -37352,7 +37764,7 @@ const speciesJson = {
       "hatchling": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -37360,7 +37772,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "eggend_n_hatchling_w"
@@ -37372,7 +37784,7 @@ const speciesJson = {
       "adult": {
         "forms": {
           "01": {
-            "formDisplay": "Default",
+            "formDisplay": "일반",
             "genders": {
               "f": {
                 "color": "gy"
@@ -37380,7 +37792,7 @@ const speciesJson = {
             }
           },
           "undead": {
-            "formDisplay": "Undead",
+            "formDisplay": "언데드",
             "genders": {
               "f": {
                 "undeadres": "eggend_n_adult_w"
