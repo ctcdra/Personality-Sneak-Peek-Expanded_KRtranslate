@@ -166,6 +166,11 @@ const personalityJson = {
 	        "back":"aura_a_orange",
 	        "front":"a"
 	},
+	"소원의": {
+		"each": "aura_s_wishful",
+		"back": "back",
+		"front": "front"
+	},
 	"수수께끼의": {
 		"each": "aura_s_dreamlike_enigmatic",
 		"back": "back_b",
