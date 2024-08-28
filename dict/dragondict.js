@@ -19246,6 +19246,80 @@ const speciesJson = {
       }
     }
   },
+  "celsior": {
+    "speciesDisplay": "셀시오르",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "worm_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "worm_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "worm_n_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "solardragon": {
     "speciesDisplay": "솔라 드래곤",
     "stage": {
