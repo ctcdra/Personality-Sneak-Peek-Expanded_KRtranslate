@@ -18662,6 +18662,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "y"
+              },
+              "m": {
+                "color": "y"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -36960,6 +36975,21 @@ const speciesJson = {
             }
           }
         }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -39366,6 +39396,21 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      },
+      "essence": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
               }
             }
           }
