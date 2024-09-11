@@ -3238,6 +3238,113 @@ const speciesJson = {
       }
     }
   },
+  "nubestella": {
+    "speciesDisplay": "누베스텔라",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "lucio_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "lucio_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "lucio_w_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "snowflowerpopomo": {
     "speciesDisplay": "눈꽃 포포모",
     "stage": {
@@ -4865,6 +4972,89 @@ const speciesJson = {
               },
               "m": {
                 "color": "bg"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "dragonslayer": {
+    "speciesDisplay": "드래곤 슬레이어",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "폭주한",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "폭주한",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "폭주한",
+            "genders": {
+              "f": {
+                "color": "p"
+              },
+              "m": {
+                "color": "p"
               }
             }
           }
@@ -9324,6 +9514,80 @@ const speciesJson = {
       }
     }
   },
+  "luacheia": {
+    "speciesDisplay": "루아셰아",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "bg"
+              },
+              "m": {
+                "color": "bg"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "rukbat": {
     "speciesDisplay": "루크바트",
     "stage": {
@@ -10955,6 +11219,344 @@ const speciesJson = {
             "genders": {
               "n": {
                 "undeadres": "drake_w_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "malcartis": {
+    "speciesDisplay": "말카르티스",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dimension_w_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dimension_w_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "P_블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "P_프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "04": {
+            "formDisplay": "P_브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "05": {
+            "formDisplay": "P_바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "06": {
+            "formDisplay": "블러드문",
+            "genders": {
+              "f": {
+                "color": "r"
+              },
+              "m": {
+                "color": "r"
+              }
+            }
+          },
+          "07": {
+            "formDisplay": "프로스트문",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "08": {
+            "formDisplay": "브라이트문",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
+          },
+          "09": {
+            "formDisplay": "바이퍼문",
+            "genders": {
+              "f": {
+                "color": "g"
+              },
+              "m": {
+                "color": "g"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "ktoolroo_w_adult_w"
               }
             }
           }
@@ -28509,6 +29111,113 @@ const speciesJson = {
       }
     }
   },
+  "enturas": {
+    "speciesDisplay": "엔투라스",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "yr"
+              },
+              "m": {
+                "color": "yr"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_adult_w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "elderlydragon": {
     "speciesDisplay": "엘더 드래곤",
     "stage": {
@@ -29450,6 +30159,121 @@ const speciesJson = {
               },
               "m": {
                 "color": "w"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "warpy": {
+    "speciesDisplay": "와피",
+    "stage": {
+      "hatch": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatch_w"
+              }
+            }
+          }
+        }
+      },
+      "hatchling": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
+              }
+            }
+          }
+        }
+      },
+      "adult": {
+        "forms": {
+          "01": {
+            "formDisplay": "기본",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "02": {
+            "formDisplay": "천상의",
+            "genders": {
+              "f": {
+                "color": "b"
+              },
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "npc": {
+            "formDisplay": "[오직 NPC]",
+            "genders": {
+              "m": {
+                "color": "b"
+              }
+            }
+          },
+          "undead": {
+            "formDisplay": "언데드",
+            "genders": {
+              "n": {
+                "undeadres": "dragon_n_hatchling_w"
               }
             }
           }
@@ -33719,6 +34543,17 @@ const speciesJson = {
                 "color": "bk"
               }
             }
+          },
+          "03": {
+            "formDisplay": "무위의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
           }
         }
       },
@@ -33745,6 +34580,17 @@ const speciesJson = {
                 "color": "bk"
               }
             }
+          },
+          "03": {
+            "formDisplay": "무위의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
+              }
+            }
           }
         }
       },
@@ -33769,6 +34615,17 @@ const speciesJson = {
               },
               "m": {
                 "color": "bk"
+              }
+            }
+          },
+          "03": {
+            "formDisplay": "무위의",
+            "genders": {
+              "f": {
+                "color": "w"
+              },
+              "m": {
+                "color": "w"
               }
             }
           }
