@@ -30277,7 +30277,7 @@ const speciesJson = {
             }
           },
           "npc": {
-            "formDisplay": "[오직 NPC]",
+            "formDisplay": "[NPC 한정]",
             "genders": {
               "m": {
                 "color": "b"
