@@ -3,6 +3,11 @@ const personalityJson = {
 		"back":"",
 		"front":""
 	},
+	"검은달의": {
+		"each": "aura_s_fullmoon",
+		"back": "back_a",
+		"front": "front_a"
+	},
 	"겁이 많은":{
         	"back":"aura_a_mint",
         	"front":"a"
@@ -27,6 +32,11 @@ const personalityJson = {
 		"each": "aura_s_stardust",
 		"back": "back_b",
 		"front": "front_b"
+	},
+	"그림자달의": {
+		"each": "aura_s_fullmoon",
+		"back": "back_c",
+		"front": "front_c"
 	},
 	"기품있는":{
 	        "back":"aura_s_blackhole",
@@ -116,6 +126,11 @@ const personalityJson = {
 	"부족한":{
 	        "back":"aura_a_navypurple",
 	        "front":"a3_purple"
+	},
+	"붉은달의": {
+		"each": "aura_s_fullmoon",
+		"back": "back_b",
+		"front": "front_b"
 	},
 	"비밀스러운": {
 		"each": "aura_s_arcane",
