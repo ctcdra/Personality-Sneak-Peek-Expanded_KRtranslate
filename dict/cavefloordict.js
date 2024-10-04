@@ -107,10 +107,10 @@ const cavefloorJson = {
     "바스카 스페셜": {
         "res": "vaska/vaska_floor_02/vaska_floor_02"
     },
+    "테스트": {
+        "res": "korean_palace/korean_palace_floor_01/korean_palace_floor_01"
+    },
     /*"Xmas 2023": {
         "res": "xmas_2023/xmas_2023_floor_01/xmas_2023_floor_01"
     },*/
-    "테스트": {
-        "res": "korean_palace/korean_palace_floor_01/korean_palace_floor_01"
-    }
 }
