@@ -107,4 +107,7 @@ const cavebgJson = {
     /*"Xmas 2023": {
         "res": "xmas_2023/xmas_2023_bg_01/xmas_2023_bg_01"
     },*/
+    "테스트": {
+        "res": "korean_palace/korean_palace_bg_01/korean_palace_bg_01"
+    }
 }
