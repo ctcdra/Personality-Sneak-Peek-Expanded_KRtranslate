@@ -44,6 +44,18 @@ const cavebgJson = {
     "야누스 스페셜": {
         "res": "janus/janus_bg_02/janus_bg_02"
     },
+    "연화룡": {
+        "res": "lotusfiredragon/lotusfiredragon_bg_01/lotusfiredragon_bg_01"
+    },
+    "연화룡 (스페셜)": {
+        "res": "lotusfiredragon/lotusfiredragon_bg_02/lotusfiredragon_bg_02"
+    },
+    "말카르티스": {
+        "res": "malcartis/malcartis_bg_01/malcartis_bg_01"
+    },
+    "말카르티스 (스페셜)": {
+        "res": "malcartis/malcartis_bg_02/malcartis_bg_02"
+    },
     "메티스": {
         "res": "metis/metis_bg_01/metis_bg_01"
     },
@@ -74,8 +86,17 @@ const cavebgJson = {
     "심포니아 스페셜": {
         "res": "symphonia/symphonia_bg_02/symphonia_bg_02"
     },
+    "텔로스 감마": {
+        "res": "telosgamma/telosgamma_bg_01/telosgamma_bg_01"
+    },
+    "텔로스 (스페셜)": {
+        "res": "telosgamma/telosgamma_bg_02/telosgamma_bg_02"
+    },
     "기억의 신전": {
         "res": "templeofmemory/templeofmemory_bg_01/templeofmemory_bg_01"
+    },
+    "The Path to Hope": {
+        "res": "apathtohope/apathtohope_bg_01/apathtohope_bg_01"
     },
     "바스카": {
         "res": "vaska/vaska_bg_01/vaska_bg_01"
