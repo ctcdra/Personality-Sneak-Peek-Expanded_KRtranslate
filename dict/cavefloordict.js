@@ -44,8 +44,20 @@ const cavefloorJson = {
     "야누스 스페셜": {
         "res": "janus/janus_floor_02/janus_floor_02"
     },
+    "연화룡": {
+        "res": "lotusfiredragon/lotusfiredragon_floor_01/lotusfiredragon_floor_01"
+    },
+    "연화룡 (스페셜)": {
+        "res": "lotusfiredragon/lotusfiredragon_floor_02/lotusfiredragon_floor_02"
+    },
     "루민디스": {
         "res": "lumindis/lumindis_floor_01/lumindis_floor_01"
+    },
+    "말카르티스": {
+        "res": "malcartis/malcartis_floor_01/malcartis_floor_01"
+    },
+    "말카르티스 (스페셜)": {
+        "res": "malcartis/malcartis_floor_02/malcartis_floor_02"
     },
     "메티스": {
         "res": "metis/metis_floor_01/metis_floor_01"
@@ -77,8 +89,17 @@ const cavefloorJson = {
     "심포니아 스페셜": {
     "res": "symphonia/symphonia_floor_02/symphonia_floor_02"
     },
+    "텔로스 감마": {
+        "res": "telosgamma/telosgamma_floor_01/telosgamma_floor_01"
+    },
+    "텔로스 감마 (스페셜)": {
+        "res": "telosgamma/telosgamma_floor_02/telosgamma_floor_02"
+    },
     "기억의 신전": {
         "res": "templeofmemory/templeofmemory_floor_01/templeofmemory_floor_01"
+    },
+    "The Path to Hope": {
+        "res": "apathtohope/apathtohope_floor_01/apathtohope_floor_01"
     },
     "바스카": {
         "res": "vaska/vaska_floor_01/vaska_floor_01"
