@@ -104,10 +104,10 @@ const cavebgJson = {
     "바스카 스페셜": {
         "res": "vaska/vaska_bg_02/vaska_bg_02"
     },
+    "테스트": {
+        "res": "korean_palace/korean_palace_bg_01/korean_palace_bg_01"
+    },
     /*"Xmas 2023": {
         "res": "xmas_2023/xmas_2023_bg_01/xmas_2023_bg_01"
     },*/
-    "테스트": {
-        "res": "korean_palace/korean_palace_bg_01/korean_palace_bg_01"
-    }
 }
